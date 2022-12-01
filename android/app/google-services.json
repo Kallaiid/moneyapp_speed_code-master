@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "364400022453",
+    "project_id": "vi-bank",
+    "storage_bucket": "vi-bank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364400022453:android:517a47ce7851ed2c417ffc",
+        "android_client_info": {
+          "package_name": "com.example.moneyapp_speed_code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364400022453-jrk76feedkhf1gmt8vgaak2e738d3qb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzU1XWUjIr3xVdGO-KZ1wmEkD_famuU4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364400022453-jrk76feedkhf1gmt8vgaak2e738d3qb5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "364400022453-4p6bou8la4nq0pd2jv4kd3bktc13aema.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.moneyappSpeedCode"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
